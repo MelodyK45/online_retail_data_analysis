@@ -10,7 +10,7 @@ Product and country performance
 
 Actionable business recommendations
 
-🎯 Objectives
+Objectives
 
 Clean and prepare raw retail transaction data
 
@@ -24,7 +24,7 @@ Visualize key business metrics
 
 Generate insights and recommendations
 
-🧾 Dataset
+Dataset
 
 Source: Online Retail Dataset
 
@@ -50,7 +50,7 @@ CustomerID
 
 Country
 
-🧹 Data Cleaning Steps
+Data Cleaning Steps
 
 Removed duplicate records
 
@@ -64,7 +64,7 @@ Converted date columns to datetime format
 
 Created a new feature: TotalPrice
 
-📊 Analysis Performed
+Analysis Performed
 1. Descriptive Statistics
 
 Summary statistics for quantity, price, and total sales
@@ -117,7 +117,7 @@ High-value customers contribute disproportionately to revenue
 
 A large segment of customers is at risk of churn
 
-💡 Recommendations
+Recommendations
 
 Leverage peak sales periods with targeted marketing
 
